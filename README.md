@@ -4,3 +4,5 @@ Unity3D doesn't come with a shader for opaque sprites. The Sprites-Default shade
 I'm really not good with shaders so I just modified the Sprites-Default shader. Feel free to contribute if you can optimize this further.
 
 To use this, create a material and select the shader named Opaque under Sprites. When using sprites, select the newly created material instead of the default one.
+
+This is only ment for Unity 4.x. Untested on Unity 5.
